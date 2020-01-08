@@ -7,4 +7,11 @@ public class NewTest {
   public void f() {
 	  System.out.println("Hello");
   }
+
+  @Test2
+	public void f1()
+	{
+	 System.out.println("Hello ji");
+	}
+	
 }
